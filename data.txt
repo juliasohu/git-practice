@@ -2,3 +2,4 @@ Name: Julia
 Age: 29
 Favorite Color: Ocre
 Favorite Place: Cuenca
+Favorite Person: Mikel
